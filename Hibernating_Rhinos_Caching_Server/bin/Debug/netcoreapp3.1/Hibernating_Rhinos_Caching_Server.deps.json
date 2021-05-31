@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hibernating_Rhinos_Caching_Server/1.0.0": {
+        "runtime": {
+          "Hibernating_Rhinos_Caching_Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hibernating_Rhinos_Caching_Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
