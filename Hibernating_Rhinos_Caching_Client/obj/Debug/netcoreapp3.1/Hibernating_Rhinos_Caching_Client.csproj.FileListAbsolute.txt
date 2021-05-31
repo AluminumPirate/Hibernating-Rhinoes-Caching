@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\bin\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.exe
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\bin\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.deps.json
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\bin\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.runtimeconfig.json
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\bin\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.runtimeconfig.dev.json
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\bin\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.dll
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\bin\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.pdb
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\obj\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\obj\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.AssemblyInfo.cs
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\obj\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\obj\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.dll
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\obj\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.pdb
+C:\Users\user\source\repos\Hibernating_Rhinos_Caching_Client\obj\Debug\netcoreapp3.1\Hibernating_Rhinos_Caching_Client.genruntimeconfig.cache
